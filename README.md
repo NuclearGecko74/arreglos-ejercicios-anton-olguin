@@ -1,4 +1,4 @@
-# Ejercicios Resueltos en C#
+# Ejercicios de Arreglos en C#
 
 Este repositorio contiene la solución de 7 ejercicios en C#, en los cuales se aplican conceptos de arreglos, matrices, generación de números aleatorios y estructuras de control. Cada ejercicio está implementado en una función independiente y se accede a ellos mediante un menú interactivo.
 

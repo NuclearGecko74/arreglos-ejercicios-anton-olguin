@@ -27,4 +27,4 @@ Este repositorio contiene la solución de 7 ejercicios en C#, en los cuales se a
 
 ## Cómo Ejecutar el Proyecto
 
-Descarga el último **ArreglosEjerciciosAnton.exe** desde la página de [Releases](#) y ejecútalo.
+Descarga el último `ArreglosEjerciciosAnton.exe` desde la página de [Releases](#) y ejecútalo.
